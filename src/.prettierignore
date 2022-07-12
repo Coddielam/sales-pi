@@ -1,0 +1,13 @@
+.cache
+.tmp
+/dist
+./dist/
+/core
+/coverage
+/storybook-static
+/build
+**/node_modules/**
+**/generated/**
+tsconfig.json
+.jest-test-results.json
+.strapi-updater.json
